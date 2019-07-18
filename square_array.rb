@@ -1,9 +1,9 @@
 #def square_array(array)
-  array.each do |numbers|
-    numbers << numbers ** 2
-  end
-  return numbers
-end
+ # array.each do |numbers|
+  #  numbers << numbers ** 2
+  #end
+  #return numbers
+#end
 
 def square_array(array)
   squarednumber_array = []
